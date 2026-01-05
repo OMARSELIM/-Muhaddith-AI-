@@ -1,0 +1,5 @@
+{
+  "name": "المحدث الذكي (Muhaddith AI)",
+  "description": "A specialized tool for students of knowledge to analyze Hadith chains (Isnad), identify narrators, and understand their status (Jarh wa Ta'dil) using AI reasoning.",
+  "requestFramePermissions": []
+}
